@@ -6,3 +6,7 @@
 
 ## Projeto da Aula de TEP
 -Conhecendo o Github
+
+#funcionando no vscode web
+
+como é legal estes VS code  web no github
